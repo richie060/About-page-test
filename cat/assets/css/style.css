@@ -1,0 +1,134 @@
+
+/*Navbar*/
+.navbar{
+    display: flex;
+    width: 90%;
+    margin: auto;
+}
+.btn:hover{
+    background: #62a343;
+    border: gray;
+}
+/*logo*/
+.logo{
+    padding-left: 40px;
+}
+span{
+    color: #1ca39a;
+}
+
+#bg {
+    position: relative;
+    text-align: center;
+    min-height: 300px;
+    background-image: url("../images/travel.jpg") ;
+    align-content: center;
+    justify-content: center;
+}
+h{
+    color: rgba(7,4,8,0.98);
+}
+#bg h2{
+    padding-top: 130px;
+    color: #ffffff;
+}
+#who-are-we{
+    text-align: center;
+    height: 150px;
+}
+.gallery{
+    padding-left:30px auto;
+    display: flex;
+    width: 100%;
+    height: auto;
+}
+#div1 {
+    background: #ffffff;
+    width: 25%;
+    border: 1px solid #a39a9a;
+    height: auto;
+    margin: 10px;
+
+
+}
+#div1 img{
+    width: 100%;
+    height:100px;
+}
+
+#div2 {
+
+    background: #ffffff;
+    width: 25%;
+    border: 1px solid #a39a9a;
+    height: auto;
+    margin: 10px;
+}
+#div2 img{
+    width: 100%;
+    height:100px;
+}
+#div3 {
+
+    background: #ffffff;
+    width: 25%;
+    border: 1px solid #a39a9a;
+    height: auto;
+    margin: 10px;
+}
+#div3 img{
+    width: 100%;
+    height:100px;
+}
+
+#div4 {
+
+    background: #ffffff;
+    width: 25%;
+    border: 1px solid #a39a9a;
+    height: auto;
+    margin: 10px;
+}
+#div4 img{
+    width: 100%;
+    height:100px;
+}
+/*Our story*/
+.feedback{
+    padding-top: 40px;
+    width: 100%;
+    display: flex;
+}
+.our-story2{
+    margin: 20px;
+    position: relative;
+    display: flex;
+    width: 50%;
+    background: red;
+    height: auto;
+}
+.our-story2 h{
+    border: 1px solid red;
+}
+.our-story2 img{
+    position: relative;
+    float: left;
+    width: 100px;
+    height: 100px;
+}
+
+.client{
+    width: 50%;
+}
+.rating{
+    margin: 20px;
+    width: 80%;
+    height: 40px;
+    border: 1px solid #918d8d;
+}
+
+
+/*footer*/
+.footer{
+    min-height: 40vh;
+}
